@@ -1,0 +1,10 @@
+.content {
+    height: 800px;
+    width: 90%;
+    border: solid;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 100px;
+    justify-content: center;
+    box-shadow: 5px 5px rgb(0, 0, 0, 0.8);
+}

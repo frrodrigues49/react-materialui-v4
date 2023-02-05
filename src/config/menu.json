@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "menu": "Administrador",
+        "link": "/adm"
+    },
+    {
+        "id": 2,
+        "menu": "Compra",
+        "link": "/compra"
+    },
+    {
+        "id": 3,
+        "menu": "Venda",
+        "link": "/venda"
+    },
+    {
+        "id": 4,
+        "menu": "Financeiro",
+        "link": "/financeiro"
+    },
+    {
+        "id": 5,
+        "menu": "Almoxarifado",
+        "link": "/almoxarifado"
+    },
+    {
+        "id": 6,
+        "menu": "Viagem",
+        "link": "/viagem"
+    },
+    {
+        "id": 7,
+        "menu": "Manutenção",
+        "link": "/manutencao"
+    }    
+]

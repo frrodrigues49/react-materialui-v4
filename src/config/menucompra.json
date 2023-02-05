@@ -1,0 +1,17 @@
+[   
+    {
+        "id": 1,
+        "menu": "Cadastro",
+        "link": "/cadastro"
+    },
+    {
+        "id": 2,
+        "menu": "Requisição",
+        "link": "/requisicao"
+    },
+    {
+        "id": 3,
+        "menu": "Solicitação",
+        "link": "/solicitacao"
+    }      
+]
